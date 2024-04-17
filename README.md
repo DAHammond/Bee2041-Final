@@ -1,4 +1,3 @@
 # Bee2041-Final
-Empirical final project for the data science module
+## This is the GitHub repository for David Hammond's Bee2041 Empirical Final Project
 
-Test 2
