@@ -1,6 +1,6 @@
 # BEE2041-Final
 This is the GitHub repository for David Hammond's BEE2041 Empirical Final Project  
-Blog post can be found at this link: https://hackmd.io/@DAHammond/BEE2041_Blog_Post 
+Blog post can be found at this link: https://hackmd.io/@DAHammond/BEE2041_Blog_Post   
 All data was scraped from https://www.understat.com 
 
 ## Files in this repository 
