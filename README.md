@@ -1,5 +1,6 @@
 # BEE2041-Final
-This is the GitHub repository for David Hammond's BEE2041 Empirical Final Project
+This is the GitHub repository for David Hammond's BEE2041 Empirical Final Project  
+Blog post can be found at this link: https://hackmd.io/@DAHammond/BEE2041_Blog_Post 
 
 ## Files in this repository 
 README - This file containing repository information and instructions on replication.   
