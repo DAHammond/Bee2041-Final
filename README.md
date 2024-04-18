@@ -11,7 +11,8 @@ Data Collection Web Scraper - A python file containing all the necessary code to
 3. Git and Github (https://github.com/DAHammond/Bee2041-Final)  
 
 ## Packages required for replication
-1. Selenium --> Webdriver
-2. csv
-3. Pandas
-4. Matplotlib
+1. Selenium 
+2. Webdriver manager
+3. csv
+4. Pandas
+5. Matplotlib
