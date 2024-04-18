@@ -1,6 +1,7 @@
 #install the required packages - this may not be required if the code has been run before, however I needed to the first time.
-!pip install selenium
-!pip install webdriver-manager
+## I have put these in a comment because after copying from the Jupter Notebook, this was creating an error
+### !pip install selenium
+### !pip install webdriver-manager
 
 # selenium is used instead of beautiful soup because of the nature of the website. Beautifulsoup wouks well with static webpages however, we need to click through dynamic webpages to access the final data in our project, therefore Selenium is a better selection.
 from selenium import webdriver
