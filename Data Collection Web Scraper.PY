@@ -62,7 +62,7 @@ for match_id in range(start_match_id, end_match_id + 1):
 browser.quit()
 
 # Write data to CSV file so that it can be analysed later - this will store in the same directory as this .PY file
-with open('EPL_2022-2023_match_data.csv', 'w', newline='') as csvfile:
+with open('match_data.csv', 'w', newline='') as csvfile:
     fieldnames = ['match_id', 'teams_home', 'teams_away', 'goals_home', 'goals_away', 'xg_home', 'xg_away']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     
