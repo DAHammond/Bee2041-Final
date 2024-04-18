@@ -16,6 +16,6 @@ EPL_2022-2023_match_data.csv - The CSV file that comes from running the webscrap
 ## Packages required for replication
 1. Selenium 
 2. Webdriver manager
-3. csv
+3. Csv
 4. Pandas
 5. Matplotlib
